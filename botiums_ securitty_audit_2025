@@ -1,0 +1,26 @@
+# Botium Toys Security Audit - 2025
+
+This repository contains a detailed security controls and compliance audit conducted for Botium Toys. 
+The assessment highlights current security gaps and recommendations for improving the organization's overall cybersecurity posture.
+
+## Contents
+
+- *Control assesment
+Evaluation of key security controls such as least privilege, firewalls, IDS, encryption, etc.
+
+.*Compliance Review*;
+-*PCI DSS*
+-*GDPR*
+SOC Type 1 & 2*
+*Recommendations*:Clear,actionable steps for adressing deficiencies and reducing security risks
+
+##Summary of key issues identified
+.Implement least priviledge and separation of duties
+.Establish regular legacy system maintenance
+.Encrypt sensitive data (including customer payment info)
+.Create and test disaster recovery plans
+.Introduce secure password policies and a password manager
+
+## File
+
+BotiumToys_Security_Audit_Checklist_2025.pdf: Full detailed audit document
